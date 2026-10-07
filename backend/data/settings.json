@@ -1,0 +1,27 @@
+{
+  "websiteName": "quizzi academia",
+  "websiteTagline": "Learn, Quiz, Excel",
+  "websiteDescription": "abc",
+  "contactInfo": {
+    "phone": "031111",
+    "address": "abc",
+    "city": "abc",
+    "state": "MA",
+    "zipCode": "02101",
+    "country": "United States"
+  },
+  "aboutUs": {
+    "title": "abc",
+    "description": "abc",
+    "missionStatement": "To revolutionize online education...",
+    "imageUrl": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&h=600&fit=crop"
+  },
+  "socialMedia": {
+    "facebook": "https://facebook.com/abc",
+    "instagram": "https://instagram.com/quizziacademy",
+    "youtube": "https://youtube.com/@quizziacademy",
+    "twitter": "https://twitter.com/quizziacademy",
+    "linkedin": "https://linkedin.com/company/quizziacademy",
+    "github": "https://github.com/quizziacademy"
+  }
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Web Development",
+    "description": "Learn the fundamentals of web development including HTML, CSS and JavaScript.",
+    "image": "",
+    "modules": [
+      {
+        "name": "HTML Basics",
+        "image": "",
+        "article": "Introduction to HTML, tags, elements and basic page structure.",
+        "youtubeUrl": ""
+      },
+      {
+        "name": "CSS Basics",
+        "image": "",
+        "article": "Learn CSS selectors, properties, styling and layouts.",
+        "youtubeUrl": ""
+      },
+      {
+        "name": "JavaScript Basics",
+        "image": "",
+        "article": "Learn JavaScript variables, functions, conditions and loops.",
+        "youtubeUrl": ""
+      }
+    ]
+  },
+  {
+    "name": "Artificial Intelligence",
+    "description": "Explore the fundamentals of Artificial Intelligence, machine learning and intelligent systems.",
+    "image": "",
+    "modules": [
+      {
+        "name": "Introduction to AI",
+        "image": "",
+        "article": "Learn what Artificial Intelligence is, its applications and how AI systems work.",
+        "youtubeUrl": ""
+      },
+      {
+        "name": "Machine Learning Basics",
+        "image": "",
+        "article": "Understand the basic concepts of machine learning, training data and models.",
+        "youtubeUrl": ""
+      },
+      {
+        "name": "AI Applications",
+        "image": "",
+        "article": "Explore real-world applications of AI including chatbots, recommendation systems and computer vision.",
+        "youtubeUrl": ""
+      }
+    ]
+  },
+  {
+    "name": "Database Management",
+    "description": "Learn the fundamentals of databases, SQL, data management and MongoDB.",
+    "image": "",
+    "modules": [
+      {
+        "name": "Database Fundamentals",
+        "image": "",
+        "article": "Understand databases, tables, records, relationships and basic database concepts.",
+        "youtubeUrl": ""
+      },
+      {
+        "name": "SQL Basics",
+        "image": "",
+        "article": "Learn SQL commands for creating, reading, updating and deleting data.",
+        "youtubeUrl": ""
+      },
+      {
+        "name": "MongoDB Basics",
+        "image": "",
+        "article": "Introduction to MongoDB, collections, documents and basic database operations.",
+        "youtubeUrl": ""
+      }
+    ]
+  },
+  {
+    "name": "Cyber Security",
+    "description": "Learn the fundamentals of cyber security, online safety and common security threats.",
+    "image": "",
+    "modules": [
+      {
+        "name": "Introduction to Cyber Security",
+        "image": "",
+        "article": "Learn the basic concepts of cyber security and why protecting digital information is important.",
+        "youtubeUrl": ""
+      },
+      {
+        "name": "Common Cyber Threats",
+        "image": "",
+        "article": "Understand common threats such as phishing, malware, social engineering and password attacks.",
+        "youtubeUrl": ""
+      },
+      {
+        "name": "Online Safety",
+        "image": "",
+        "article": "Learn practical techniques for protecting accounts, passwords, devices and personal information.",
+        "youtubeUrl": ""
+      }
+    ]
+  }
+]

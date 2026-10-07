@@ -1,0 +1,1004 @@
+[
+  {
+    "title": "HTML Basics Quiz",
+    "course": "Web Development",
+    "questions": [
+      {
+        "questionText": "What does HTML stand for?",
+        "options": [
+          "Hyper Text Markup Language",
+          "High Text Machine Language",
+          "Hyperlink Text Management Language",
+          "Home Tool Markup Language"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "Which tag is used for the main heading?",
+        "options": ["<head>", "<h1>", "<heading>", "<h6>"],
+        "correctOptionIndex": 1
+      },
+      {
+        "questionText": "Which HTML tag is used to create a paragraph?",
+        "options": ["<p>", "<para>", "<text>", "<paragraph>"],
+        "correctOptionIndex": 0
+      }
+    ]
+  },
+  {
+    "title": "HTML Forms Quiz",
+    "course": "Web Development",
+    "questions": [
+      {
+        "questionText": "Which HTML element is used to create a form?",
+        "options": ["<form>", "<input>", "<fieldset>", "<submit>"],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "Which input type is used for an email address?",
+        "options": ["text", "mail", "email", "address"],
+        "correctOptionIndex": 2
+      },
+      {
+        "questionText": "Which attribute gives an input its submitted name?",
+        "options": ["id", "name", "value", "label"],
+        "correctOptionIndex": 1
+      }
+    ]
+  },
+  {
+    "title": "CSS Basics Quiz",
+    "course": "Web Development",
+    "questions": [
+      {
+        "questionText": "What does CSS stand for?",
+        "options": [
+          "Cascading Style Sheets",
+          "Computer Style System",
+          "Creative Style Syntax",
+          "Colorful Style Sheets"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "Which CSS property changes text color?",
+        "options": ["font-color", "text-color", "color", "foreground"],
+        "correctOptionIndex": 2
+      },
+      {
+        "questionText": "Which symbol selects an element by its id?",
+        "options": [".", "#", "*", "&"],
+        "correctOptionIndex": 1
+      }
+    ]
+  },
+  {
+    "title": "CSS Layout Quiz",
+    "course": "Web Development",
+    "questions": [
+      {
+        "questionText": "Which CSS layout system is designed for one-dimensional layouts?",
+        "options": ["Grid", "Flexbox", "Float", "Table"],
+        "correctOptionIndex": 1
+      },
+      {
+        "questionText": "Which property controls the space inside an element's border?",
+        "options": ["margin", "padding", "spacing", "gap"],
+        "correctOptionIndex": 1
+      },
+      {
+        "questionText": "Which property changes the width of an element?",
+        "options": ["size", "element-width", "width", "length"],
+        "correctOptionIndex": 2
+      }
+    ]
+  },
+  {
+    "title": "JavaScript Basics Quiz",
+    "course": "Web Development",
+    "questions": [
+      {
+        "questionText": "Which keyword declares a block-scoped variable that can be reassigned?",
+        "options": ["var", "let", "const", "define"],
+        "correctOptionIndex": 1
+      },
+      {
+        "questionText": "Which method prints a message in the browser console?",
+        "options": [
+          "print()",
+          "console.log()",
+          "log.console()",
+          "browser.log()"
+        ],
+        "correctOptionIndex": 1
+      },
+      {
+        "questionText": "Which symbol is commonly used for strict equality?",
+        "options": ["=", "==", "===", "!="],
+        "correctOptionIndex": 2
+      }
+    ]
+  },
+  {
+    "title": "JavaScript Functions Quiz",
+    "course": "Web Development",
+    "questions": [
+      {
+        "questionText": "What is a function used for?",
+        "options": [
+          "Only styling pages",
+          "Grouping reusable code",
+          "Creating databases",
+          "Installing packages"
+        ],
+        "correctOptionIndex": 1
+      },
+      {
+        "questionText": "Which keyword returns a value from a function?",
+        "options": ["send", "return", "output", "back"],
+        "correctOptionIndex": 1
+      },
+      {
+        "questionText": "Which syntax correctly defines a function?",
+        "options": [
+          "function greet() {}",
+          "func greet() {}",
+          "define greet() {}",
+          "function: greet() {}"
+        ],
+        "correctOptionIndex": 0
+      }
+    ]
+  },
+  {
+    "title": "DOM Manipulation Quiz",
+    "course": "Web Development",
+    "questions": [
+      {
+        "questionText": "What does DOM stand for?",
+        "options": [
+          "Document Object Model",
+          "Data Object Management",
+          "Document Order Method",
+          "Digital Object Model"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "Which method selects an element by its id?",
+        "options": [
+          "getElementById()",
+          "selectById()",
+          "findId()",
+          "queryId()"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "Which property can change the HTML inside an element?",
+        "options": [
+          "innerHTML",
+          "htmlContentOnly",
+          "changeHTML",
+          "elementHTML"
+        ],
+        "correctOptionIndex": 0
+      }
+    ]
+  },
+  {
+    "title": "Web Development General Quiz",
+    "course": "Web Development",
+    "questions": [
+      {
+        "questionText": "Which technology is mainly used to structure web pages?",
+        "options": ["HTML", "CSS", "JavaScript", "MongoDB"],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "Which technology is mainly used to style web pages?",
+        "options": ["Node.js", "CSS", "MongoDB", "Express"],
+        "correctOptionIndex": 1
+      },
+      {
+        "questionText": "Which technology adds programming behavior to web pages?",
+        "options": ["HTML", "CSS", "JavaScript", "JSON"],
+        "correctOptionIndex": 2
+      }
+    ]
+  },
+  {
+    "title": "Introduction to AI Quiz",
+    "course": "Artificial Intelligence",
+    "questions": [
+      {
+        "questionText": "What does AI stand for?",
+        "options": [
+          "Artificial Intelligence",
+          "Automated Information",
+          "Advanced Internet",
+          "Artificial Integration"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "What is the main goal of Artificial Intelligence?",
+        "options": [
+          "To replace all computers",
+          "To enable machines to perform tasks that normally require human intelligence",
+          "To create websites only",
+          "To store files"
+        ],
+        "correctOptionIndex": 1
+      },
+      {
+        "questionText": "Which of the following is an example of AI?",
+        "options": ["AI chatbot", "USB cable", "Keyboard", "Monitor"],
+        "correctOptionIndex": 0
+      }
+    ]
+  },
+  {
+    "title": "Machine Learning Basics Quiz",
+    "course": "Artificial Intelligence",
+    "questions": [
+      {
+        "questionText": "What is Machine Learning?",
+        "options": [
+          "A method of manually programming every decision",
+          "A technique where computers learn patterns from data",
+          "A type of computer hardware",
+          "A database system"
+        ],
+        "correctOptionIndex": 1
+      },
+      {
+        "questionText": "Which type of learning uses labeled training data?",
+        "options": [
+          "Supervised learning",
+          "Unsupervised learning",
+          "Random learning",
+          "Manual learning"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "Which of these is commonly used in Machine Learning?",
+        "options": [
+          "Training data",
+          "HTML tags",
+          "CSS properties",
+          "USB ports"
+        ],
+        "correctOptionIndex": 0
+      }
+    ]
+  },
+  {
+    "title": "Neural Networks Quiz",
+    "course": "Artificial Intelligence",
+    "questions": [
+      {
+        "questionText": "What is a neural network inspired by?",
+        "options": [
+          "The human brain",
+          "A computer keyboard",
+          "A web browser",
+          "A database table"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "What is a basic unit of a neural network commonly called?",
+        "options": ["Neuron", "Router", "Browser", "Server"],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "What do neural networks learn from?",
+        "options": [
+          "Data",
+          "Electric cables",
+          "Web addresses only",
+          "Computer screens"
+        ],
+        "correctOptionIndex": 0
+      }
+    ]
+  },
+  {
+    "title": "Deep Learning Quiz",
+    "course": "Artificial Intelligence",
+    "questions": [
+      {
+        "questionText": "What is Deep Learning?",
+        "options": [
+          "A branch of Machine Learning using multi-layer neural networks",
+          "A type of database",
+          "A web development framework",
+          "A computer operating system"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "Which technology is commonly associated with Deep Learning?",
+        "options": ["Neural networks", "HTML", "CSS", "SQL"],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "Deep Learning is especially useful for which type of task?",
+        "options": [
+          "Image and speech recognition",
+          "Connecting a keyboard",
+          "Formatting a hard drive",
+          "Creating folders"
+        ],
+        "correctOptionIndex": 0
+      }
+    ]
+  },
+  {
+    "title": "Natural Language Processing Quiz",
+    "course": "Artificial Intelligence",
+    "questions": [
+      {
+        "questionText": "What does NLP stand for?",
+        "options": [
+          "Natural Language Processing",
+          "Network Language Program",
+          "Natural Learning Process",
+          "Neural Language Platform"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "What is NLP mainly used for?",
+        "options": [
+          "Understanding and processing human language",
+          "Managing computer hardware",
+          "Designing websites",
+          "Creating databases"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "Which is an example of NLP?",
+        "options": ["Chatbot", "Keyboard", "Monitor", "Printer"],
+        "correctOptionIndex": 0
+      }
+    ]
+  },
+  {
+    "title": "Computer Vision Quiz",
+    "course": "Artificial Intelligence",
+    "questions": [
+      {
+        "questionText": "What is Computer Vision?",
+        "options": [
+          "A field of AI that enables computers to interpret visual information",
+          "A database technology",
+          "A programming language",
+          "A networking protocol"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "Which type of data is mainly processed in Computer Vision?",
+        "options": [
+          "Images and videos",
+          "Only text",
+          "Only audio",
+          "Database tables"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "Which is an example of Computer Vision?",
+        "options": [
+          "Face recognition",
+          "Email writing",
+          "Database backup",
+          "Web page styling"
+        ],
+        "correctOptionIndex": 0
+      }
+    ]
+  },
+  {
+    "title": "AI Applications Quiz",
+    "course": "Artificial Intelligence",
+    "questions": [
+      {
+        "questionText": "Which is an application of Artificial Intelligence?",
+        "options": [
+          "Virtual assistants",
+          "USB cables",
+          "Computer mouse",
+          "Monitor stand"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "How can AI be used in healthcare?",
+        "options": [
+          "Helping analyze medical images and data",
+          "Replacing all hospitals",
+          "Creating computer cables",
+          "Printing documents only"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "Which technology can use AI to recommend content to users?",
+        "options": [
+          "Recommendation systems",
+          "Keyboard drivers",
+          "Power cables",
+          "File folders"
+        ],
+        "correctOptionIndex": 0
+      }
+    ]
+  },
+  {
+    "title": "AI Ethics Quiz",
+    "course": "Artificial Intelligence",
+    "questions": [
+      {
+        "questionText": "Why is AI ethics important?",
+        "options": [
+          "To encourage responsible and fair use of AI",
+          "To make computers faster",
+          "To increase internet speed",
+          "To design keyboards"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "What is one important concern related to AI?",
+        "options": [
+          "Bias in AI systems",
+          "Keyboard size",
+          "Screen brightness",
+          "Mouse shape"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "What should an AI system ideally provide when making important decisions?",
+        "options": [
+          "Fairness and transparency",
+          "Random results",
+          "Hidden decisions",
+          "Unverified information"
+        ],
+        "correctOptionIndex": 0
+      }
+    ]
+  },
+  {
+    "title": "Database Fundamentals Quiz",
+    "course": "Database Management",
+    "questions": [
+      {
+        "questionText": "What is a database?",
+        "options": [
+          "A collection of organized data",
+          "A programming language",
+          "A web browser",
+          "An operating system"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "What does DBMS stand for?",
+        "options": [
+          "Data Backup Management System",
+          "Database Management System",
+          "Digital Business Management Software",
+          "Database Memory Storage"
+        ],
+        "correctOptionIndex": 1
+      },
+      {
+        "questionText": "Which of the following is a DBMS?",
+        "options": ["MongoDB", "HTML", "CSS", "React"],
+        "correctOptionIndex": 0
+      }
+    ]
+  },
+  {
+    "title": "Relational Database Quiz",
+    "course": "Database Management",
+    "questions": [
+      {
+        "questionText": "What is a table in a relational database?",
+        "options": [
+          "A collection of related data organized in rows and columns",
+          "A programming function",
+          "A web page",
+          "A network device"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "What does a row usually represent in a database table?",
+        "options": ["A database", "A record", "A column type", "A query"],
+        "correctOptionIndex": 1
+      },
+      {
+        "questionText": "What does a column usually represent?",
+        "options": [
+          "An attribute or field",
+          "A complete database",
+          "A server",
+          "A user account"
+        ],
+        "correctOptionIndex": 0
+      }
+    ]
+  },
+  {
+    "title": "SQL Basics Quiz",
+    "course": "Database Management",
+    "questions": [
+      {
+        "questionText": "What does SQL stand for?",
+        "options": [
+          "Structured Query Language",
+          "Simple Question Language",
+          "System Query Logic",
+          "Structured Question List"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "Which SQL command is used to retrieve data?",
+        "options": ["GET", "SELECT", "FETCHALL", "READ"],
+        "correctOptionIndex": 1
+      },
+      {
+        "questionText": "Which SQL command is used to add new data?",
+        "options": ["INSERT", "ADD", "CREATE DATA", "APPEND ROW"],
+        "correctOptionIndex": 0
+      }
+    ]
+  },
+  {
+    "title": "SQL Queries Quiz",
+    "course": "Database Management",
+    "questions": [
+      {
+        "questionText": "Which clause is used to filter records in SQL?",
+        "options": ["ORDER BY", "WHERE", "GROUP BY", "SELECT"],
+        "correctOptionIndex": 1
+      },
+      {
+        "questionText": "Which clause is used to sort query results?",
+        "options": ["SORT", "ORDER BY", "ARRANGE", "GROUP"],
+        "correctOptionIndex": 1
+      },
+      {
+        "questionText": "Which keyword is used to remove duplicate results?",
+        "options": ["UNIQUE", "DISTINCT", "REMOVE", "ONLY"],
+        "correctOptionIndex": 1
+      }
+    ]
+  },
+  {
+    "title": "Database Keys Quiz",
+    "course": "Database Management",
+    "questions": [
+      {
+        "questionText": "What is a primary key?",
+        "options": [
+          "A field that uniquely identifies each record",
+          "A field used only for sorting",
+          "A password for the database",
+          "A backup copy of the table"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "Can a table have more than one primary key?",
+        "options": [
+          "Yes, every column can be a primary key",
+          "No, a table has one primary key constraint",
+          "Yes, but only in MongoDB",
+          "Only when the table has no rows"
+        ],
+        "correctOptionIndex": 1
+      },
+      {
+        "questionText": "What is a foreign key used for?",
+        "options": [
+          "Connecting related tables",
+          "Encrypting a database",
+          "Deleting records",
+          "Creating passwords"
+        ],
+        "correctOptionIndex": 0
+      }
+    ]
+  },
+  {
+    "title": "Database Normalization Quiz",
+    "course": "Database Management",
+    "questions": [
+      {
+        "questionText": "What is the main purpose of database normalization?",
+        "options": [
+          "Reduce data redundancy and improve data organization",
+          "Make websites load faster",
+          "Increase duplicate data",
+          "Replace SQL with JavaScript"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "Which normal form requires atomic values?",
+        "options": [
+          "First Normal Form",
+          "Second Normal Form",
+          "Third Normal Form",
+          "Fourth Normal Form"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "Normalization generally helps reduce:",
+        "options": [
+          "Data redundancy",
+          "Database security",
+          "Data accuracy",
+          "Table structure"
+        ],
+        "correctOptionIndex": 0
+      }
+    ]
+  },
+  {
+    "title": "MongoDB Basics Quiz",
+    "course": "Database Management",
+    "questions": [
+      {
+        "questionText": "What type of database is MongoDB?",
+        "options": [
+          "Relational database",
+          "Document-oriented NoSQL database",
+          "Graph database only",
+          "Spreadsheet database"
+        ],
+        "correctOptionIndex": 1
+      },
+      {
+        "questionText": "What format is commonly used to represent MongoDB documents?",
+        "options": ["JSON-like BSON", "HTML", "CSS", "XML only"],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "What is a collection in MongoDB similar to?",
+        "options": [
+          "A table in a relational database",
+          "A SQL query",
+          "A database password",
+          "A programming variable"
+        ],
+        "correctOptionIndex": 0
+      }
+    ]
+  },
+  {
+    "title": "Database Management General Quiz",
+    "course": "Database Management",
+    "questions": [
+      {
+        "questionText": "Which operation is used to change existing data?",
+        "options": ["UPDATE", "SELECT", "CREATE", "SEARCH"],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "Which operation removes records from a database?",
+        "options": ["DELETE", "REMOVE ALL", "DROP DATA", "CLEAR"],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "Why are databases commonly used in applications?",
+        "options": [
+          "To store and manage application data",
+          "To design logos",
+          "To create CSS animations only",
+          "To replace the operating system"
+        ],
+        "correctOptionIndex": 0
+      }
+    ]
+  },
+  {
+    "title": "Introduction to Cyber Security Quiz",
+    "course": "Cyber Security",
+    "questions": [
+      {
+        "questionText": "What is cyber security?",
+        "options": [
+          "Protecting systems, networks, and data from digital threats",
+          "Designing websites",
+          "Creating computer games",
+          "Managing social media"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "What is the main goal of cyber security?",
+        "options": [
+          "Protect information and systems",
+          "Increase internet speed",
+          "Create websites",
+          "Install games"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "Which of these is a cyber security concern?",
+        "options": [
+          "Unauthorized access",
+          "Screen brightness",
+          "Keyboard color",
+          "Font size"
+        ],
+        "correctOptionIndex": 0
+      }
+    ]
+  },
+  {
+    "title": "Common Cyber Threats Quiz",
+    "course": "Cyber Security",
+    "questions": [
+      {
+        "questionText": "What is phishing?",
+        "options": [
+          "A fraudulent attempt to obtain sensitive information",
+          "A type of database",
+          "A programming language",
+          "A file compression method"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "What is malware?",
+        "options": [
+          "Malicious software designed to harm or exploit systems",
+          "A secure password",
+          "A database system",
+          "A web browser"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "What is ransomware?",
+        "options": [
+          "Malware that can encrypt data and demand payment",
+          "A type of firewall",
+          "A programming framework",
+          "A search engine"
+        ],
+        "correctOptionIndex": 0
+      }
+    ]
+  },
+  {
+    "title": "Passwords and Authentication Quiz",
+    "course": "Cyber Security",
+    "questions": [
+      {
+        "questionText": "Which password is generally stronger?",
+        "options": [
+          "12345678",
+          "password",
+          "Tooba123",
+          "A long unique password with mixed characters"
+        ],
+        "correctOptionIndex": 3
+      },
+      {
+        "questionText": "What does MFA stand for?",
+        "options": [
+          "Multi-Factor Authentication",
+          "Main File Access",
+          "Multiple Firewall Application",
+          "Managed File Authentication"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "Why should users avoid reusing passwords?",
+        "options": [
+          "A compromised password could expose multiple accounts",
+          "It makes websites slower",
+          "It damages the computer",
+          "It prevents software updates"
+        ],
+        "correctOptionIndex": 0
+      }
+    ]
+  },
+  {
+    "title": "Network Security Quiz",
+    "course": "Cyber Security",
+    "questions": [
+      {
+        "questionText": "What is a firewall?",
+        "options": [
+          "A security system that controls network traffic",
+          "A database",
+          "A programming language",
+          "A type of monitor"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "What does HTTPS help provide?",
+        "options": [
+          "Encrypted communication between browser and website",
+          "Faster CPU performance",
+          "More storage space",
+          "Automatic software installation"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "What is a VPN commonly used for?",
+        "options": [
+          "Creating an encrypted connection over a network",
+          "Increasing monitor resolution",
+          "Editing images",
+          "Creating databases"
+        ],
+        "correctOptionIndex": 0
+      }
+    ]
+  },
+  {
+    "title": "Web Security Quiz",
+    "course": "Cyber Security",
+    "questions": [
+      {
+        "questionText": "What is SQL injection?",
+        "options": [
+          "An attack that manipulates database queries through input",
+          "A method for styling websites",
+          "A type of image format",
+          "A database backup technique"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "What is XSS?",
+        "options": [
+          "Cross-Site Scripting",
+          "Extra Secure System",
+          "Extended Server Security",
+          "Cross Server Storage"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "Why should user input be validated?",
+        "options": [
+          "To reduce invalid or malicious input",
+          "To increase screen brightness",
+          "To remove the database",
+          "To disable authentication"
+        ],
+        "correctOptionIndex": 0
+      }
+    ]
+  },
+  {
+    "title": "Data Protection Quiz",
+    "course": "Cyber Security",
+    "questions": [
+      {
+        "questionText": "What is encryption?",
+        "options": [
+          "Converting information into a protected form",
+          "Deleting all information",
+          "Compressing images only",
+          "Creating a website"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "Why are backups important?",
+        "options": [
+          "They help recover data after loss or damage",
+          "They increase monitor size",
+          "They remove malware automatically",
+          "They replace passwords"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "Which information should be protected carefully?",
+        "options": [
+          "Passwords and personal information",
+          "Public website colors",
+          "Screen resolution",
+          "Keyboard layout"
+        ],
+        "correctOptionIndex": 0
+      }
+    ]
+  },
+  {
+    "title": "Online Safety Quiz",
+    "course": "Cyber Security",
+    "questions": [
+      {
+        "questionText": "What should you do with a suspicious email link?",
+        "options": [
+          "Click it immediately",
+          "Verify it before opening",
+          "Forward it to everyone",
+          "Enter your password first"
+        ],
+        "correctOptionIndex": 1
+      },
+      {
+        "questionText": "Why should software be updated regularly?",
+        "options": [
+          "Updates can fix security vulnerabilities",
+          "Updates always delete files",
+          "Updates disable security",
+          "Updates remove the internet"
+        ],
+        "correctOptionIndex": 0
+      },
+      {
+        "questionText": "What is a safe practice on public computers?",
+        "options": [
+          "Save all passwords in the browser",
+          "Leave accounts logged in",
+          "Log out after using your account",
+          "Disable all security features"
+        ],
+        "correctOptionIndex": 2
+      }
+    ]
+  },
+  {
+    "title": "Cyber Security General Quiz",
+    "course": "Cyber Security",
+    "questions": [
+      {
+        "questionText": "Which principle focuses on keeping information accessible to authorized users?",
+        "options": [
+          "Confidentiality",
+          "Integrity",
+          "Availability",
+          "Authentication"
+        ],
+        "correctOptionIndex": 2
+      },
+      {
+        "questionText": "Which principle focuses on preventing unauthorized changes to data?",
+        "options": [
+          "Availability",
+          "Integrity",
+          "Confidentiality",
+          "Compression"
+        ],
+        "correctOptionIndex": 1
+      },
+      {
+        "questionText": "Which principle focuses on preventing unauthorized access to information?",
+        "options": [
+          "Confidentiality",
+          "Availability",
+          "Integrity",
+          "Formatting"
+        ],
+        "correctOptionIndex": 0
+      }
+    ]
+  }
+]
